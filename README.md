@@ -1,6 +1,6 @@
 <img align="left" alt="IBM" src="https://thumbs.gfycat.com/AdolescentAbleCarp-size_restricted.gif" width="100"/>
 <h1 align="center">Hello Folks 👋, I'm Pranay Ranjan</h1>
-<h3 align="center">I'm a diligent and fervent software engineer from India</h3>
+<h3 align="center">I'm a diligent and fervent coding enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayxox&label=Profile%20views&color=0e75b6&style=flat" alt="pranayxox" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranayxox" alt="pranayxox" /></a> </p>
