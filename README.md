@@ -29,7 +29,7 @@
 </p>
 <h4 align="left">Cloud Technologies:</h4>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="typescript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="typescript" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="typescript" width="40" height="40"/>
 </p>
 
