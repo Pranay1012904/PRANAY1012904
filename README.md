@@ -25,7 +25,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="sass" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="sass" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" alt="sass" width="40" height="40"/>
 </p>
