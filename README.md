@@ -8,6 +8,7 @@
 - 💬 Ask me about **Javascript, React, Node.JS, Express.JS, HTML, CSS, Bootstrap, JAVA, SpringBoot, Microservice Architecture, Cloud Computing**
 
 - 📫 How to reach me **pranay.dmnsns@gmail.com**
+- <a href="https://github.com/Pranay1012904">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
