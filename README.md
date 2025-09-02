@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay1012904" alt="pranay1012904" /></a> </p>
 
-- 💬 Ask me about **Javascript, React, Node.JS, Express.JS, HTML, CSS, Bootstrap, JAVA, SpringBoot, Microservice Architecture, Cloud Computing**
+- 💬 Ask me about **Javascript, React, Node.JS, Express.JS, HTML, CSS, Bootstrap, JAVA, SpringBoot, Microservice Architecture, Cloud Computing, SQL, GraphQL, Restful APIs, DBMS**
 
 - 📫 How to reach me **pranay.dmnsns@gmail.com**
 
